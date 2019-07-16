@@ -14,7 +14,5 @@
         ],
         "NotDataActions": [
         ],
-        "AssignableScopes": [
-               "/subscriptions/d5b9d4b7-6fc1-46c5-bafe-38effaed19b2"
-        ]
+        "AssignableScopes": [subscription()]
 }
